@@ -161,6 +161,7 @@ dtbo-$(CONFIG_ARCH_ROCKCHIP) += \
 	rk3588-i2c7-m3.dtbo \
 	rk3588-i2c8-m2.dtbo \
 	rk3588-i2c8-m4.dtbo \
+	rk3588-mm6108.dtbo \
 	rk3588-pwm0-m0.dtbo \
 	rk3588-pwm0-m1.dtbo \
 	rk3588-pwm0-m2.dtbo \
